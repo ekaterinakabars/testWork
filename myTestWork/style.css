@@ -560,6 +560,12 @@ a {
     }
 }
 
+@media(max-width:578px) {
+    .bottomparagraph {
+         margin: 0px;
+    }
+}
+
 @media(max-width:564px) {
     .textInfo {
          width: 500px;
